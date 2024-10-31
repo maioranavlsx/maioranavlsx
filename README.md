@@ -1,6 +1,6 @@
 <h1>Ciao 👋, sono Vincenzo Maiorana</h1>
-<p>Fullstack Dev in Lascaux per essere Protagonista dell'Evoluzione Digitale</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>Fullstack Dev in Lascaux per essere <b>Protagonista dell'Evoluzione Digitale!</b></p>
+<h2>🚀 Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -32,11 +32,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://github.com/maioranav">Visita il mio profilo privato @maioranav</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/vincenzo.maiorana" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+
+<h2>⚡️ Stay in touch!</h2>
+<p><a target="_blank" href="https://github.com/maioranav" style="display: inline-block;"><img src="https://img.shields.io/badge/maioranav-logo?style=for-the-badge&logo=github&logoColor=white&color=%23000000" alt="github" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vincenzo.maiorana" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/v.maiorana" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maioranavlsx&show_icons=true&locale=en" alt="maioranavlsx" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maioranavlsx&show_icons=true&locale=en&layout=compact" alt="maioranavlsx" /></p>
